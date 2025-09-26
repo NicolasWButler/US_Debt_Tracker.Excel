@@ -4,7 +4,7 @@
 This project explores historical and projected trends in US publicly held debt.  
 The dataset provided was raw and required cleaning before meaningful analysis could be conducted. Once prepared, the data was analyzed to answer three key questions about debt growth and seasonal patterns.  
 
-The analysis was conducted in **Excel**, where I performed data cleaning, transformation, and visualization to support my findings.  
+The analysis was conducted in **Excel**, where I performed data cleaning, transformation, and visualisation to support my findings.  
 
 ---
 
@@ -24,7 +24,7 @@ The analysis was conducted in **Excel**, where I performed data cleaning, transf
 
 ### 2. Monthly Trends  
 - Identified which months historically show the highest and lowest increases in total debt  
-- Visualized monthly patterns to uncover seasonal effects  
+- Visualised monthly patterns to uncover seasonal effects  
 
 ### 3. Projected Growth  
 - Estimated future debt growth based on historical trends  
@@ -48,10 +48,11 @@ The analysis was conducted in **Excel**, where I performed data cleaning, transf
 ## 📌 How to Use  
 1. Clone this repository or download the Excel file  
 2. Open `US Debt Tracker Project.xlsx` in Excel (or Google Sheets)  
-3. Explore the data cleaning steps, calculations, and visualizations  
+3. Explore the data cleaning steps, calculations, and visualisations  
 
 ---
 
 ## 🛠️ Tools Used  
-- Microsoft Excel (data cleaning, pivot tables, projections, and charts)  
+- Microsoft Excel (data cleaning, pivot tables, projections, and charts)
+
 
